@@ -3,7 +3,7 @@
 -- Clone the repository
 
 -- On the local diretory that the project was cloned run:
-   -- yarn
+    yarn
 
 -- To execute the project run:
-  -- yarn dev
+   yarn dev
